@@ -1,0 +1,2 @@
+Alright here is the stuff I learned in VI:
+	to save or do any commands really, press esc first. :q! just quits without saving, :w "File name" saves it as the written file		 name. ZZ quits while saving any changes. Coolio!
